@@ -23,7 +23,7 @@ Text editor  is  a Progressive Web App which runs in the browser with a number o
 ## Review
 
 * Link to Aplication deployed
-  * https://frozen-brook-84861.herokuapp.com/
+  * https://edit-o.herokuapp.com/
 
 * The URL of the GitHub repository 
 * [Repository](https://github.com/Chrisolsen1993/Text-Editor)
