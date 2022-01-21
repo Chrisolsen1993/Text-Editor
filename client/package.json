@@ -1,8 +1,11 @@
 {
   "name": "JATE",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "webpack --mode production",
+    "build": "webpack --mode development",
     "start": "webpack --watch"
   },
   "author": "2U",

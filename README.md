@@ -17,7 +17,7 @@ Text editor  is  a Progressive Web App which runs in the browser with a number o
 ## Mock-Up
 
 
-![Text-Editor ](./Develop/image/jate.png)
+![Text-Editor ](./image/jate.png)
 
 
 ## Review
